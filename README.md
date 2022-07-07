@@ -1,5 +1,5 @@
 <h1 align="center">NimbiDev</h1>
 
-<img align="center" src="profile/assets/banner.gif">
+<p align="center"><img width="600" height="200" src="profile/assets/banner.gif"></p>
 
 <small><p align="center">Open Source Development</p></small>
